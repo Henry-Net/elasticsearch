@@ -1,0 +1,16 @@
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\bin\Debug\netcoreapp2.1\appsettings.json
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\bin\Debug\netcoreapp2.1\ElasticSearchAPI.deps.json
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\bin\Debug\netcoreapp2.1\ElasticSearchAPI.runtimeconfig.json
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\bin\Debug\netcoreapp2.1\ElasticSearchAPI.runtimeconfig.dev.json
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\bin\Debug\netcoreapp2.1\ElasticSearchAPI.dll
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\bin\Debug\netcoreapp2.1\ElasticSearchAPI.pdb
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\obj\Debug\netcoreapp2.1\ElasticSearchAPI.csprojAssemblyReference.cache
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\obj\Debug\netcoreapp2.1\ElasticSearchAPI.RazorAssemblyInfo.cache
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\obj\Debug\netcoreapp2.1\ElasticSearchAPI.RazorAssemblyInfo.cs
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\obj\Debug\netcoreapp2.1\ElasticSearchAPI.AssemblyInfoInputs.cache
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\obj\Debug\netcoreapp2.1\ElasticSearchAPI.AssemblyInfo.cs
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\obj\Debug\netcoreapp2.1\ElasticSearchAPI.RazorTargetAssemblyInfo.cache
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\obj\Debug\netcoreapp2.1\ElasticSearchAPI.dll
+F:\ElasticSearch\service\ElasticSearchAPI\ElasticSearchAPI\obj\Debug\netcoreapp2.1\ElasticSearchAPI.pdb
